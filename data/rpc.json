@@ -41,6 +41,13 @@
     "explorer": "https://basescan.org/tx/",
     "token": "ETH"
   },
+  "zora": {
+    "rpc": [
+      "https://zora.rpc.thirdweb.com"
+    ],
+    "explorer": "https://explorer.zora.energy/tx/",
+    "token": "ETH"
+  },
   "scroll": {
     "rpc": [
       "https://rpc.scroll.io"
